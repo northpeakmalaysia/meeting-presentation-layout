@@ -1,0 +1,7 @@
+# Runtime metadata read by the SwarmAI Meeting Hub plugin loader.
+# Cross-validated against the manifest.yaml registered at
+# packages/official/meeting-presentation-layout/manifest.yaml in the SwarmAI Hub repo.
+id: '@swarmai/meeting-presentation-layout'
+version: '1.0.0'
+kind: 'meeting-plugin'
+entry: './dist/index.js'
